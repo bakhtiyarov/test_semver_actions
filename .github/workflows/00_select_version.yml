@@ -2,9 +2,8 @@ name: Semantic Version
 
 on: 
   push:
-    branches: [ master ]
-#    tags:
-#    - '*'
+    tags:
+    - '*'
 
 jobs:
 
